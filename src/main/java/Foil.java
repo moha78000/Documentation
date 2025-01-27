@@ -2,6 +2,7 @@
  * La classe Foil étend ArmementSupplementaire.
  * Cette classe représente un armement foil pour un voilier.
  */
+
 public class Foil extends ArmementSupplementaire {
 
     /**
